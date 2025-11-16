@@ -23,7 +23,7 @@ These experiences have enhanced my adaptability to international environments, s
 ## Finished Projects
 - **NBA Salary Prediction** – [Repo Link](https://github.com/manueldg1/NBA_Salary_Prediction)  
 - **Fooling Neural Networks with Optimization** – [Repo Link](https://github.com/manueldg1/Fooling_Neural_Networks_Optimization)  
-- **Encoder vs Decoder Models for Sentiment Analysis** – [Repo Link]([https://github.com/manueldg1/Encoder_vs_Decoder_Sentiment_Analysis](https://github.com/manueldg1/DS-ML-Projects/blob/main/Encoder_vs_Decoder_Sentiment_Analysis.pdf))  
+- **Encoder vs Decoder Models for Sentiment Analysis** – [Repo Link](https://github.com/manueldg1/DS-ML-Projects/blob/main/Encoder_vs_Decoder_Sentiment_Analysis.pdf)  
 
 ---
 
