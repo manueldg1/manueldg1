@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Manuel
 
-<!--
-**manueldg1/manueldg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### M.Sc. Data Science Student | Research Intern at IST Lisbon | Multimodal ML & NLP Enthusiast
 
-Here are some ideas to get you started:
+I am a **M.Sc. student in Data Science at the University of Padua** with strong international and professional experience.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Erasmus Exchanges:** Completed two Erasmus study exchanges in **Seville** and **Granada**, gaining cross-cultural teamwork skills and adaptability.  
+- **Industry Internship:** Worked at **CRIF Spa**, acquiring practical experience in data-driven projects and real-world applications of Data Science.  
+- **Current Research Internship:** Conducting a **research internship in Lisbon** as part of my Erasmus Traineeship, focusing on my **Master’s thesis**:  
+  **"Emotion Recognition in Multimodal Contents Through Large Vision-and-Language Models."**  
+
+These experiences have strengthened my **discipline, resilience, and ability to work independently and collaboratively** in diverse environments.
+
+---
+
+## 🔭 Current Research Focus
+- Multimodal emotion recognition from **text and images**  
+- Large vision-and-language models
+- Regression models for **valence and arousal prediction**
+
+---
+
+## Finished Projects
+- **NBA Salary Prediction** – [Repo Link](https://github.com/manueldg1/NBA_Salary_Prediction)  
+- **Fooling Neural Networks with Optimization** – [Repo Link](https://github.com/manueldg1/Fooling_Neural_Networks_Optimization)  
+- **Encoder vs Decoder Models for Sentiment Analysis** – [Repo Link](https://github.com/manueldg1/Encoder_vs_Decoder_Sentiment_Analysis)  
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/manuel-d-alterio-grazioli-180379201/  
+- Email: manuel.dalterio01@gmail.com
