@@ -9,7 +9,7 @@ I am a **M.Sc. student in Data Science at the University of Padua** with strong 
 - **Current Research Internship:** Conducting a **research internship in Lisbon** as part of my Erasmus Traineeship, focusing on my **Master’s thesis**:  
   **"Emotion Recognition in Multimodal Contents Through Large Vision-and-Language Models."**  
 
-These experiences have strengthened my **discipline, resilience, and ability to work independently and collaboratively** in diverse environments.
+These experiences have enhanced my adaptability to international environments, strengthened my ability to work both independently and in teams, and fostered discipline, determination, and a strong curiosity for machine learning.
 
 ---
 
@@ -28,5 +28,5 @@ These experiences have strengthened my **discipline, resilience, and ability to 
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/manuel-d-alterio-grazioli-180379201/  
+- LinkedIn: 
 - Email: manuel.dalterio01@gmail.com
