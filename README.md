@@ -22,7 +22,7 @@ These experiences have enhanced my adaptability to international environments, s
 
 ## 📂 Finished Projects
 - **NBA Salary Prediction** – [Repo Link](https://github.com/manueldg1/NBA-Salary-Prediction)
-- **Fooling Neural Networks with Optimization** – [Repo Link]([https://github.com/manueldg1/DS-ML-Projects/blob/main/Fooling_Neural_Net_with_Optimization.pdf](https://github.com/manueldg1/PGD-vs-FrankWolfe-Adversarial) 
+- **Fooling Neural Networks with Optimization** – [Repo Link](https://github.com/manueldg1/PGD-vs-FrankWolfe-Adversarial) 
 
 ---
 
